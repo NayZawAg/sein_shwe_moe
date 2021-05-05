@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NayZawAg/sein_shwe_moe.git/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/NayZawAg/sein_shwe_moe.git/static/js/main.41cb1806.chunk.js",
+    "main.js.map": "/NayZawAg/sein_shwe_moe.git/static/js/main.41cb1806.chunk.js.map",
+    "runtime-main.js": "/NayZawAg/sein_shwe_moe.git/static/js/runtime-main.3bde8bbc.js",
+    "runtime-main.js.map": "/NayZawAg/sein_shwe_moe.git/static/js/runtime-main.3bde8bbc.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/NayZawAg/sein_shwe_moe.git/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d0979f4f.chunk.js": "/NayZawAg/sein_shwe_moe.git/static/js/2.d0979f4f.chunk.js",
+    "static/js/2.d0979f4f.chunk.js.map": "/NayZawAg/sein_shwe_moe.git/static/js/2.d0979f4f.chunk.js.map",
+    "index.html": "/NayZawAg/sein_shwe_moe.git/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/NayZawAg/sein_shwe_moe.git/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/NayZawAg/sein_shwe_moe.git/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.d0979f4f.chunk.js.LICENSE.txt": "/NayZawAg/sein_shwe_moe.git/static/js/2.d0979f4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bde8bbc.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d0979f4f.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.41cb1806.chunk.js"
+  ]
+}
